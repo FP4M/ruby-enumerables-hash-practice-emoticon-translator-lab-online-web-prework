@@ -1,4 +1,3 @@
-hash = {"get_emoticon" => {}}
 require "yaml"
 gov = YAML.load_file('government.yml')
  
