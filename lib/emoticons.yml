@@ -1,4 +1,0 @@
-require "yaml"
-gov = YAML.load_file('government.yml')
- 
-gov
